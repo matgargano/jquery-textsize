@@ -1,0 +1,27 @@
+{
+  "name": "jquery-textsize",
+  "license": "MIT",
+  "authors": [
+    "Mat Gargano <mgargano@gmail.com>"
+  ],
+  "description": "Customizable plugin that simply adds font larger/smaller buttons",
+  "homepage": "http://matgargano.com",
+  "keywords": [
+    "jquery",
+    "plugin",
+    "font-size"
+  ],
+  "main": "src/jquery.textsize.js",
+  "dependencies": {
+    "jquery": "1"
+  },
+  "ignore": [
+    "npm-debug.log",
+    "bower_components",
+    "node_modules"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/foo/bar.git"
+  }
+}
